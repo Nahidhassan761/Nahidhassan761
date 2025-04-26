@@ -29,20 +29,20 @@ I turn ☕ coffee into fully working mobile apps with smooth UI and powerful fun
 
 🛠️ Languages and Tools
 <div align="left"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </div>
-📹 Project Videos
-Here are some of the projects I have worked on, and you can view them below:
 
 
 
-Project | Watch Here
+## 📹 **Project Videos**
 
-📱 Flutter E-Commerce App | Watch Video
-☀️ Flutter Weather App | Watch Video
-📰 Flutter News App | Watch Video
-📞 Flutter Calling App | Watch Video
+Here are some of the **projects** I have worked on, and you can view them below:
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nahidhassan761&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </div>
+| 📱 **Flutter E-Commerce App** | [Watch Video](https://www.linkedin.com/feed/update/urn:li:activity:7321951027455246337/) |
+| ☀️ **Flutter Weather App** | [Watch Video](https://www.linkedin.com/feed/update/urn:li:activity:7261725620181606400/) |
+| 📰 **Flutter News App** | [Watch Video](https://www.linkedin.com/feed/update/urn:li:activity:7250918400326045696/) |
+| 📞 **Flutter Calling App** | [Watch Video](https://www.linkedin.com/feed/update/urn:li:activity:7249413758488395776/) |
+
+
+
 📈 My Project Contributions
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidhassan761&theme=tokyo-night" alt="Activity Graph" /> </div>
 
