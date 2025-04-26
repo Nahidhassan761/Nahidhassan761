@@ -14,15 +14,12 @@ Hi there 👋 I'm Nahid Hassan
 
 📫 How to reach me:
 
-📧 Email: nahidhassan761@gmail.com
+- 📧 **Email**: [nahidhassan761@gmail.com](mailto:nahidhassan761@gmail.com)
+- 📞 **Phone**: [+880 1785-489275](tel:+8801785489275)
+- 🔗 **LinkedIn**: [Visit my LinkedIn Profile](https://www.linkedin.com/in/nahidhassanshovon/)
+- 🔗 **Facebook**: [Visit my Facebook Profile](https://www.facebook.com/)
+- 🌐 **Portfolio Website**: [Visit my Portfolio](https://nahidhassan761.github.io/Portfolio-NahidHassan/)
 
-📞 Phone: +880 1785-489275
-
-🔗 LinkedIn
-
-🔗 Facebook
-
-🌐 Portfolio Website
 
 ⚡ Fun fact:
 I turn ☕ coffee into fully working mobile apps with smooth UI and powerful functionality!
