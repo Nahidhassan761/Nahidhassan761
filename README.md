@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi there 👋 I'm Nahid Hassan
+🚀 About Me
 
-<!--
-**Nahidhassan761/Nahidhassan761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working as a Flutter Developer.
+
+🌱 I’m currently learning Advanced Flutter, Backend Integration, and Cloud Technologies.
+
+👨‍💻 I build beautiful Flutter UIs and develop complete app functionalities.
+
+👯 I’m looking to collaborate on Mobile App Projects, Flutter Development, and Open Source.
+
+💬 Ask me about Flutter, Firebase, REST APIs, and State Management (GetX, Provider, Riverpod).
+
+📫 How to reach me:
+
+📧 Email: nahidhassan761@gmail.com
+
+📞 Phone: +880 1785-489275
+
+🔗 LinkedIn
+
+🔗 Facebook
+
+🌐 Portfolio Website
+
+⚡ Fun fact:
+I turn ☕ coffee into fully working mobile apps with smooth UI and powerful functionality!
+
+🛠️ Languages and Tools
+<div align="left"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </div>
+📹 Project Videos
+🔗 Project 1
+
+🔗 Project 2
+
+🔗 Project 3
+
+🔗 Project 4
+
+📊 GitHub Stats
+
+📈 My Project Contributions
+All my project works and contributions are visible here through the contribution graph! 📈
+Every project I develop (from UI to complete functionality) is shown below:
